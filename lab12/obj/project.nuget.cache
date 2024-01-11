@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQnCLtSnW9AWLGWjv8hTVo0vHFLvijm1SDmMJVNGuMnkjrDCklSVqWUJpoFHXKAIYwpCqUAI9S6E8BIa/v4reQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grigo\\source\\repos\\932101.alekseev.grigorii.lab12\\932101.alekseev.grigorii.lab12\\lab12\\lab12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
